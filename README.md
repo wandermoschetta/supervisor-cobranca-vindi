@@ -2,7 +2,7 @@
 
 #### Script de supervisão da cobrança da VINDI
 
-Após **clonar o repositório**, faça o **seguintes passos**:
+Após **clonar o repositório**, faça os **seguintes passos**:
 
 ```
 1. Rode comando "python -m venv .venv" para criar um virtual environment.
