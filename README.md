@@ -1,4 +1,4 @@
-## Script supervisor do projeto Cobrança VINDI
+## Supervisor do projeto Cobrança VINDI
 
 #### Script de supervisão da cobrança da VINDI
 
