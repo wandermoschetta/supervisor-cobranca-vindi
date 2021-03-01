@@ -10,6 +10,6 @@
 3. Rode o comando "pip install -r requirements.txt" para instalar dependências.
 
 ```
-- Este script trata-se exclusivamente de uma supervisão ao "processo de cobrança da VINDI", projeto responsável pelo envio de cobranças automática(sem supervisão humana) integrado ao ERP da Empresa em que trabalho.
+> Este script trata-se exclusivamente de uma supervisão ao "processo de cobrança da VINDI", projeto responsável pelo envio de cobranças automática(sem supervisão humana) integrado ao ERP da Empresa em que trabalho.
   
      
